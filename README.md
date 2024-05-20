@@ -1,5 +1,5 @@
 Este código se ha obtenido del repositorio de https://github.com/joseluisgs/Programacion-04-2022-2023/tree/master/Ejemplos/CloneWarsInterfaces
-Licencia de uso
+# Licencia de uso
 
 Este repositorio y todo su contenido está licenciado bajo licencia Creative Commons, si desea saber más, vea la LICENSE. Por favor si compartes, usas o modificas este proyecto cita a su autor, y usa las mismas condiciones para su uso docente, formativo o educativo y no comercial.
 
